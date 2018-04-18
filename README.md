@@ -31,8 +31,20 @@ solution : Function
 ## Input Analysis
 
 What characteristics of your inputs are important for your solution?  
+* Is it a string
+* Are there non-letter charecters
+* How long is it
+* Are all letters from our alphabet
+* Pictures?
+* Anagram
+* Special charecters
 
 What groupings will you have to consider when building your solution?  
+* Symmetrical string: how do we know it was really reversed? (oooohhh)
+* Empty string
+* Escape charecter
+* All numbers
+* SSOOOPER long
 
 How did you use this information to select your test cases?
 
