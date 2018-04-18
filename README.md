@@ -55,7 +55,7 @@ ___
 
 ## Solution Explanation
 
-Explain your solution in detail, however works for you.  Perhaps by using a specific input to illustrate, by describing your strategy, or by including a diagram [directly from Sketchboard.io](https://sketchboard.io/blog/2014/03/06/github-sketchboard.html).
+Check out the pseudo-solutions.  We're going to do both strategies, with multiple implementations.
 
 [TOP](#index)
 
