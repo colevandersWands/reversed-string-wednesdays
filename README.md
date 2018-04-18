@@ -1,13 +1,14 @@
-# [<challenge name>](https://www.codewars.com/kata/<challenge name>)
+# [Reversed String](https://www.codewars.com/kata/reversed-string)
 
-Explain the challenge as completely & clearly as you can.
+Take in a string and return the string backwards.
 
-_function name_: Function
-* Args: (how many args does this function take?)
-  * (List each arg, it's type, and it's purpose)
-* Return: (what type does this function return?)
-  * (Describe the return value)
-* Behavior: (What does this function do?)
+solution : Function
+* Args: 1
+  * String: the string to be reversed
+* Return: String
+  * The argument reversed
+* Behavior: It reverses the string argument
+
 
 '''js
 // copy of your polished solution for easy reference.
