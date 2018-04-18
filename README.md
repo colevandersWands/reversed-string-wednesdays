@@ -2,7 +2,7 @@
 
 Take in a string and return the string backwards.
 
-solution : Function
+reversed_string : Function
 * Args: 1
   * String: the string to be reversed
 * Return: String
